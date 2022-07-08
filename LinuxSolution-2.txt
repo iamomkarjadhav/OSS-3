@@ -8,7 +8,7 @@
 
 5. Use mkdir to create directories and cat or touch to create files.
 // create the diectory
-
+//this changes from omkar jadhav
 6. $mv *.c C/.
 
 7. $mkdir temp
